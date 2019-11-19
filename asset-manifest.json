@@ -1,7 +1,24 @@
 {
-  "main.css": "static/css/main.40b4a62f.css",
-  "main.css.map": "static/css/main.40b4a62f.css.map",
-  "main.js": "static/js/main.feb18ed9.js",
-  "main.js.map": "static/js/main.feb18ed9.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "/toy-app/static/css/main.6fdcdd19.chunk.css",
+    "main.js": "/toy-app/static/js/main.9ee72838.chunk.js",
+    "main.js.map": "/toy-app/static/js/main.9ee72838.chunk.js.map",
+    "runtime-main.js": "/toy-app/static/js/runtime-main.2af90299.js",
+    "runtime-main.js.map": "/toy-app/static/js/runtime-main.2af90299.js.map",
+    "static/css/2.ed45abbb.chunk.css": "/toy-app/static/css/2.ed45abbb.chunk.css",
+    "static/js/2.b05b9300.chunk.js": "/toy-app/static/js/2.b05b9300.chunk.js",
+    "static/js/2.b05b9300.chunk.js.map": "/toy-app/static/js/2.b05b9300.chunk.js.map",
+    "index.html": "/toy-app/index.html",
+    "precache-manifest.10500cea1476cd4d6046aacbbdd810b5.js": "/toy-app/precache-manifest.10500cea1476cd4d6046aacbbdd810b5.js",
+    "service-worker.js": "/toy-app/service-worker.js",
+    "static/css/2.ed45abbb.chunk.css.map": "/toy-app/static/css/2.ed45abbb.chunk.css.map",
+    "static/css/main.6fdcdd19.chunk.css.map": "/toy-app/static/css/main.6fdcdd19.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2af90299.js",
+    "static/css/2.ed45abbb.chunk.css",
+    "static/js/2.b05b9300.chunk.js",
+    "static/css/main.6fdcdd19.chunk.css",
+    "static/js/main.9ee72838.chunk.js"
+  ]
 }
